@@ -1,4 +1,4 @@
-## Hi 👽 ny Name is Énio, Amazon Web Scraper API may be what you are looking for.
+## Hi 👽 ny name is Énio, Amazon Web Scraper API may be what you are looking for.
 <div align="center">
   <a href="https://github.com/datwayskrt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=datwayskrt&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>

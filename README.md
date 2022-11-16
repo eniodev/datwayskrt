@@ -1,4 +1,4 @@
-https://res.cloudinary.com/practicaldev/image/fetch/s--g9MAgyZB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gsen5jgdaf4fv81e575h.gif
+![](https://res.cloudinary.com/practicaldev/image/fetch/s--g9MAgyZB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gsen5jgdaf4fv81e575h.gif)
 
 <div align="center">
   <a href="https://github.com/datwayskrt">

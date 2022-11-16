@@ -1,8 +1,16 @@
 <div align="center">
+  
   ![gif](https://user-images.githubusercontent.com/49740149/202160117-2635dec5-62c3-47c8-9e3f-5b5c1c3e00df.gif)
-  # Welcome to my GitHub
+  
+  ## Welcome to my GitHub
 </div>
 
+<div align="center">
+  <a href="https://github.com/datwayskrt">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=datwayskrt&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datwayskrt&layout=compact&langs_count=7&theme=vue-dark"/>
+</div>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="datway-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="datway-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">

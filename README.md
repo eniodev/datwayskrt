@@ -1,4 +1,5 @@
-![](https://res.cloudinary.com/practicaldev/image/fetch/s--g9MAgyZB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gsen5jgdaf4fv81e575h.gif)
+![gif](https://user-images.githubusercontent.com/49740149/202160117-2635dec5-62c3-47c8-9e3f-5b5c1c3e00df.gif)
+
 
 <div align="center">
   <a href="https://github.com/datwayskrt">
